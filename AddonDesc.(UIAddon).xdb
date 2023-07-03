@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIAddon>
+	<Name>RessCounter</Name>
+	<AutoStart>true</AutoStart>
+	<ScriptFileRefs>
+		<Item href="Libs/Chat.lua"/>
+		<Item href="Libs/LibDnD.lua"/>
+		<Item href="Libs/Log.lua"/>
+		<Item href="Libs/Misc.lua"/>
+		<Item href="Libs/ScriptAdvancedToString.lua"/>
+		<Item href="Libs/ScriptChatLogExt.lua"/>
+		<item href="Libs/Sort.lua"/>
+		<Item href="Libs/Utils.lua"/>
+		<Item href="Libs/Widget.lua"/>
+		<Item href="locales.lua"/>
+		<!-- <Item href="Script.luac"/> -->
+		<Item href="SourceCode.lua"/>
+    </ScriptFileRefs>
+	<localizedNameFileRef href="name.txt"/>
+	<localizedDescFileRef href="desc.txt"/>
+</UIAddon>
